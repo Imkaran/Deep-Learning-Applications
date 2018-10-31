@@ -1,0 +1,6 @@
+Planner data classification application classify the red and blue point
+To run the application : main.py
+Python Package Required:
+numpy
+matplotlib
+scipy
